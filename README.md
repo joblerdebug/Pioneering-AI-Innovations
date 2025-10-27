@@ -17,5 +17,6 @@ See individual task folders for specific requirements.
 
 ## Author
 
-[Your Name]
+job mawira
+
 PLP Academy - AI Future Directions Assignment
